@@ -1,4 +1,5 @@
 # IOT-Based-Coal-Mine-Safety-Monitoring-and-Alerting-System
+Coal mining is the process of extracting coal from the ground. Steel and cement industries use coal as a fuel for extraction of iron from iron ore and for cement production. Underground mining industry comes to the category, where each and every parameter such as methane gas, high temperature, fire accidents and so on has to be monitored regularly. Safe production level of coal mine is still low, disasters in coal mine occur frequently, which lead to great loss of possession and life. The disasters happening in coal mine are due to the complexity of mine environment and the variety of work carried out in coal mine, so it is very necessary to monitor the working environment of coal mine. 
 
 SOFTWRAE SPECIFICATIONS:-
   1.  Arduino IDE
